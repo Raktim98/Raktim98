@@ -68,21 +68,23 @@ Vite • Google Gemini API • Zod
 The Google Gemini API is accessed through the `generateStudySet`
 server function using the `GEMINI_API_KEY` environment variable.
 
-> ⚠️ API keys are stored in environment variables and are not committed
-> to the repository.
-
 ---
 
-### 🍔 QuickBite
-Full-stack food delivery web application built with Next.js,
-React, Tailwind CSS and Supabase.
 
-**Features:**
-- User authentication
-- Food browsing
-- Ordering system
-- Order history
-- Database integration
+### 🍔 QuickBite — Full-Stack Food Delivery Application
+
+A modern food delivery web application built with Next.js, React,
+Tailwind CSS and Supabase.
+
+**✨ Features:**
+- 🔐 User signup & login
+- 🍔 Browse food items
+- 🛒 Place food orders
+- 📦 View order history
+- 🗄️ Supabase database integration
+- 📱 Responsive user interface
+
+**Tech:** Next.js • React • Tailwind CSS • Supabase • JavaScript
 
 ---
 
