@@ -42,7 +42,7 @@ Git • GitHub • Postman • Vercel
 
 ## 📌 Featured Projects
 
-### 🍔 Foodzone
+### 🍔 QuickBite
 Full-stack food delivery web application built with Next.js,
 React, Tailwind CSS and Supabase.
 
@@ -100,9 +100,10 @@ with weather API integration.
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Raktim Sarma](YOUR_LINKEDIN_URL)
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: www.linkedin.com/in/
+raktimsarma986
+- 🌐 Portfolio: https://portfolio-raktimsarma.vercel.app/
+- 📧 Email: sarmaraktim444@gmail.com
 
 ---
 
