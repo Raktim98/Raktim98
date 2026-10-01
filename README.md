@@ -88,17 +88,26 @@ React, Tailwind CSS and Supabase.
 
 ### 🤖 Text Summarization Using Deep Learning
 
-NLP-based text summarization project using transformer models.
+An NLP-based summarization application that uses transformer-based
+deep learning models to generate concise summaries from text,
+documents, and web content.
 
-**Models:**
-- BART
-- T5
-- PEGASUS
+**✨ Features:**
+- 📝 **Text Summarization** — Generate concise summaries from long text.
+- 🌐 **URL Summarization** — Summarize content directly from a webpage URL.
+- 🎙️ **Voice Input** — Convert spoken input into text for summarization.
+- 📄 **Paragraph Summarization** — Summarize single or multiple paragraphs.
+- 📚 **Document Summarization** — Generate summaries from uploaded documents.
+- 🌍 **Multilingual Output** — Generate summaries in **English, Hindi, and Assamese**.
+- 🤖 **Multiple AI Models** — Supports BART, T5 and PEGASUS.
+- 📊 **Model Evaluation** — Compare models using ROUGE and BLEU metrics.
+- 🖥️ **Interactive Interface** — User-friendly interface for generating and viewing summaries.
 
-**Technologies:**
-Python • PyTorch • Hugging Face • NLP • Gradio
+**🛠️ Technologies:**
+Python • PyTorch • Hugging Face Transformers • NLP • Gradio
 
----
+**📌 Models:**
+BART • T5 • PEGASUS
 
 ### 📖 Advanced Dictionary
 
