@@ -42,6 +42,37 @@ Git • GitHub • Postman • Vercel
 
 ## 📌 Featured Projects
 
+
+### 🧠 FlashGenius — AI-Powered Study Assistant
+
+FlashGenius is an AI-powered flashcard and quiz generator that transforms
+study notes into an interactive learning experience using the Google Gemini API.
+
+**✨ Features:**
+- 📝 Generate study sets from user-provided notes
+- 🧠 Automatically generate 10 flashcards
+- ❓ Generate 5 multiple-choice questions
+- 🎯 Quiz difficulty levels: Easy, Medium and Hard
+- 📚 Interactive flashcard interface with question/answer flipping
+- 📊 Quiz scoring and instant feedback
+- 💡 Explanations for quiz answers
+- 🔄 Retake and review quizzes
+
+**🛠️ Tech Stack:**
+
+React • TypeScript • TanStack Start • TanStack Router • Tailwind CSS •
+Vite • Google Gemini API • Zod
+
+**🔐 AI Integration:**
+
+The Google Gemini API is accessed through the `generateStudySet`
+server function using the `GEMINI_API_KEY` environment variable.
+
+> ⚠️ API keys are stored in environment variables and are not committed
+> to the repository.
+
+---
+
 ### 🍔 QuickBite
 Full-stack food delivery web application built with Next.js,
 React, Tailwind CSS and Supabase.
@@ -83,10 +114,13 @@ Dictionary API.
 
 ---
 
-### 🌦️ Weather Application
+### 🌐 Personal Portfolio
 
-Responsive weather application built using HTML, CSS and JavaScript
-with weather API integration.
+Responsive personal portfolio website showcasing my skills,
+projects and experience.
+
+**Tech Stack:**
+React • JavaScript • Tailwind CSS
 
 ---
 
