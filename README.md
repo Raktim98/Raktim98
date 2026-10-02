@@ -24,7 +24,7 @@ and AI/ML applications.
 ## 🛠️ Tech Stack
 
 ### Languages
-JavaScript • Python • C++ • HTML • CSS
+JavaScript • TypeScript • Python • C++ • HTML • CSS
 
 ### Frontend
 React.js • Next.js • Tailwind CSS
