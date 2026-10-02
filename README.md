@@ -84,7 +84,7 @@ Tailwind CSS and Supabase.
 - 🗄️ Supabase database integration
 - 📱 Responsive user interface
 
-**Tech:** Next.js • React • Tailwind CSS • Supabase • JavaScript
+**Tech:** Next.js • React • Tailwind CSS • Supabase • TypeScript
 
 ---
 
