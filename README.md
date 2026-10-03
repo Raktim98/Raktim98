@@ -36,7 +36,7 @@ Node.js • REST APIs • MongoDB • Supabase
 Python • PyTorch • Hugging Face Transformers • NLP
 
 ### Tools
-Git • GitHub • Postman • Vercel
+Git • GitHub • Postman • Vercel • Render • Cloudfare 
 
 ---
 
